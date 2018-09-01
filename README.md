@@ -1,4 +1,4 @@
-# Dockerizing Payara (r-pay backend)
+# Dockerizing Payara 
 Docker Images for payara base & payara wrapper!
 
 
@@ -31,7 +31,7 @@ Run the newest tag available on docker registry for both `Payara Base` & `Payara
 
 
 ### Authors
-* **Karan Thanvi** - *DevOps, Rakuten Pay* 
+* **Karan Thanvi**
 
 *Last Update date : 2018-07-20*
 
